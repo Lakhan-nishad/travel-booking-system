@@ -1,0 +1,94 @@
+# ========================================
+# Java & Maven
+# ========================================
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# Maven Wrapper
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+mvnw
+mvnw.cmd
+
+# ========================================
+# IDEs
+# ========================================
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# ========================================
+# Logs & Temp
+# ========================================
+*.log
+*.bak
+*.swp
+
+# ========================================
+# OS Files
+# ========================================
+.DS_Store
+Thumbs.db
+
+# ========================================
+# Spring Boot
+# ========================================
+.env
+*.env
+application-dev.yml
+application-prod.yml
+
+# ========================================
+# Test Reports
+# ========================================
+surefire-reports/
+test-output/
+
+# ========================================
+# Docker & PIDs
+# ========================================
+*.pid
+docker-compose.override.yml
+
+# ========================================
+# Help files (optional)
+# ========================================
+HELP.md
+
+
+.mvn/wrapper/maven-wrapper.jar
+
+
+### STS ###
+.apt_generated
+
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+
+
