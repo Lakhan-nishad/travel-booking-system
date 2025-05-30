@@ -77,18 +77,3 @@ docker-compose.override.yml
 # Help files (optional)
 # ========================================
 HELP.md
-
-
-.mvn/wrapper/maven-wrapper.jar
-
-
-### STS ###
-.apt_generated
-
-.factorypath
-.settings
-.springBeans
-.sts4-cache
-
-
-
